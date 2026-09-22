@@ -1,0 +1,38 @@
+p = 3 : determinant identiquement nul
+p = 5 : degre minimal = 3 ; coefficient = 3
+p = 7 : determinant identiquement nul
+p = 11 : determinant identiquement nul
+p = 13 : degre minimal = 9 ; coefficient = 5
+p = 17 : degre minimal = 5 ; coefficient = 16
+p = 19 : degre minimal = 3 ; coefficient = 1
+p = 23 : determinant identiquement nul
+p = 29 : degre minimal = 0 ; coefficient = 3
+p = 31 : degre minimal = 5 ; coefficient = 26
+p = 37 : degre minimal = 6 ; coefficient = 34
+p = 41 : degre minimal = 9 ; coefficient = 7
+p = 43 : degre minimal = 0 ; coefficient = 21
+p = 47 : degre minimal = 3 ; coefficient = 25
+p = 53 : degre minimal = 4 ; coefficient = 12
+p = 59 : degre minimal = 5 ; coefficient = 27
+p = 61 : degre minimal = 3 ; coefficient = 12
+p = 67 : degre minimal = 4 ; coefficient = 10
+p = 71 : degre minimal = 0 ; coefficient = 10
+p = 73 : degre minimal = 5 ; coefficient = 28
+p = 79 : degre minimal = 6 ; coefficient = 30
+p = 83 : degre minimal = 9 ; coefficient = 9
+p = 89 : degre minimal = 3 ; coefficient = 12
+p = 97 : degre minimal = 9 ; coefficient = 94
+p = 101 : degre minimal = 5 ; coefficient = 63
+p = 103 : degre minimal = 3 ; coefficient = 78
+p = 107 : degre minimal = 6 ; coefficient = 89
+p = 109 : degre minimal = 4 ; coefficient = 32
+p = 113 : degre minimal = 0 ; coefficient = 18
+p = 127 : degre minimal = 0 ; coefficient = 99
+p = 131 : degre minimal = 3 ; coefficient = 110
+p = 137 : degre minimal = 4 ; coefficient = 136
+p = 139 : degre minimal = 9 ; coefficient = 7
+p = 149 : degre minimal = 6 ; coefficient = 28
+p = 151 : degre minimal = 4 ; coefficient = 103
+p = 157 : degre minimal = 5 ; coefficient = 58
+Liste obtenue : [3, 7, 11, 23]
+>>> CERTIFICAT FINI OK
