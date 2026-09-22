@@ -1,4 +1,4 @@
-# Théorème C — Classification des premiers non-ordinaires universels
+# Théorème Sofyen — Classification des premiers non-ordinaires universels
 
 Famille : $\mathcal C_\sigma : y^2 = x^7 + \sigma x + 1$ (genre 3), matrice de Cartier–Manin $M_p(\sigma)$.
 
